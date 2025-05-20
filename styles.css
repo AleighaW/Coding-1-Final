@@ -16,6 +16,18 @@ h3{
     border-style:solid;
     font-weight:bold;
 }
-.col-md-4{
-    border-style:dashed
+.card-title{
+    color:darkblue;
+    font-style: italic;
+    font-weight: bold;
+}
+.card-text{
+    color:darkblue;
+    font-style:oblique;
+    font-weight: bold;
+}
+img{
+    border-style:double;
+    border-color:lightblue;
+    border-width:30px;
 }
