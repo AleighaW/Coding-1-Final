@@ -1,0 +1,21 @@
+body{
+    background-image: url(img/blue\ hearts.jfif);
+}
+h1{
+    font-size:60px;
+    border-style:solid;
+    font-weight:bold;
+}
+h2{
+    font-size:30px;
+    border-style:solid;
+    font-weight:bold;
+}
+h3{
+    font-size:30px;
+    border-style:solid;
+    font-weight:bold;
+}
+.col-md-4{
+    border-style:dashed
+}

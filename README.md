@@ -1,2 +1,5 @@
 # Coding-1-Final
  These are the starter files for F2021 Coding 1 Final
+
+My Site:
+I've wanted to do a site on ribbon flowers for a while now so I thought this was a perfect opportunity. I've always been a crafty type of person and when I saw ribbon flowers I fell in love. They are so much fun to make and I love making them for my friends. A lot of people have actually asked me to make some for them before and my friends and family who are really close to me have told me I should make money off of them. I never thought about it that way because I make them because I want to, not because I want profit off of them. Overtime tho I thought it wouldn't be a bad idea, so this website that I've made lets me have a page of some of my ribbon flowers and their prices so I can sell them. The flowers that I have currently on my page are the flowers I'm best at. My contact page is a simple page for people to reach me. It's easier in my opion to talk to the person directly instead of ordering through a website where things can get messed up. My about me page is about how I got into this craft and my home page has each flower U currently have with their prices.
